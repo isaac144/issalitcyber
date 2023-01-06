@@ -164,6 +164,12 @@ button:hover{
     width: 100%;
     padding: 100px 0px;
 }
+.cool{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center
 .title h2{
     color: white;
     font-size: 75px;
